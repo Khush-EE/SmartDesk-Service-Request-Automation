@@ -187,3 +187,25 @@ The initial SmartDesk application, custom table, form and basic Flow Designer au
 ---
 
 *This project is being developed as a hands-on way to learn ServiceNow application development, workflow automation and IT service management concepts.*
+
+
+## Project Screenshots
+
+### 1. SmartDesk Application Home
+![SmartDesk Home](01-smartdesk-app-home.png)
+
+### 2. Custom Service Request Table
+![Service Request Table](02a-service-request-table-top.png)
+
+![Service Request Fields](02b-service-request-table-fields.png)
+
+### 3. Service Request Form
+![Request Form](03a-service-request-form-top.png)
+
+![Request Form Bottom](03b-service-request-form-bottom.png)
+
+### 4. Flow Designer Automation
+![Flow Designer](04-smartdesk-flow-designer.png)
+
+### 5. Successful Automation Execution
+![Successful Execution](05-smartdesk-successful-execution.png)
